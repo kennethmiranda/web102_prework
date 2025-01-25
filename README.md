@@ -1,19 +1,19 @@
-# WEB102 Prework - _Name of App Here_
+# WEB102 Prework - _Sea Monster_
 
 Submitted by: **Kenneth Miranda**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] The introduction section explains the background of the company and how many games remain unfunded.
-- [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-- [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-- [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+- [x] The introduction section explains the background of the company and how many games remain unfunded.
+- [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+- [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+- [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
@@ -27,7 +27,7 @@ Here's a walkthrough of implemented features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with ...
+GIF created with OBS and posted with Imgur
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
@@ -36,7 +36,8 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges encountered while building the app:
+On Challenge #2, I got stuck for longer than I would like to admit. This was because I was not getting the correct Secret Key. On Secret Key component 2, the answer is game-container, yet I thought it was all-btn at first because I did not pay attention to the div after. It also took me a bit to realize what Secret Key component 3 was asking me, until I reviewed the CSS Selectors reference and realized it was simply ."class".
 
 ## License
 
