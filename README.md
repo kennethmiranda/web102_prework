@@ -24,6 +24,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 ![](assets/KennethMirandaCodePathPreworkWEB102.gif)
+Imgur in case GIF preview does not show: https://imgur.com/a/kenneth-miranda-codepath-prework-web102-TThstlc
 
 <!-- Replace this with whatever GIF tool you used! -->
 
