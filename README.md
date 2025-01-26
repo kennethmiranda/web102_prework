@@ -1,4 +1,4 @@
-# WEB102 Prework - _Sea Monster_
+# WEB102 Prework - _Sea Monster_ :octopus:
 
 Submitted by: **Kenneth Miranda**
 
